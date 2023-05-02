@@ -124,14 +124,6 @@ If you want to significantly speed up font loading time, find out what fonts you
 <link rel="preload" href="./fonts/FiraGO-Regular.latin.woff2" as="font" crossorigin="anonymous">
 ```
 
-Contact Me / Hire Me
----------
-
-If you have any question, comment, or issue, please let me know via:
-- hi@webpraktikos.com
-- https://twitter.com/webpraktikos
-- or open an issue on GitHub (Issues → New issue)
-
 License
 ---------
 
